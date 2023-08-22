@@ -1,0 +1,6 @@
+{
+  "hostname":"localhost",
+  "username":"YourDbUsernameHere",
+  "password":"YourDbPasswordHere",
+  "database":"_db_sample"
+}
